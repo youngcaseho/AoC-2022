@@ -1,4 +1,4 @@
-elves_snacks_calories = open('C:\Projects\Local\AoC\Day1\Day1Input.txt', 'r')
+elves_snacks_calories = open('C:\Projects\Git\AoC-2022\src\Day1\Day1Input.txt', 'r')
 
 most_calories = 0
 elf_snacks_total_calories = 0
